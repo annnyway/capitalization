@@ -1,0 +1,233 @@
+Pet Service
+Pet Shop
+Pet Supplies
+Veterinary Clinic
+Auto Dealer
+Auto Goods
+Auto Service Center
+Car Manufacturer
+Car Rental
+Car Wash
+Cycling
+Motorcycles and Motor Vehicles
+Services for Car Owners
+Water Transportation
+Beauty Salon
+Day Spa
+Diets, Healthy Eating
+Fitness Center
+Healthy Lifestyle
+Perfume, Cosmetics
+Psychology
+Style, Fashion
+Swimming Pool
+Tattoo Studio
+Actor / Actress
+Artist
+Band
+Blogger
+Comedian
+Composer
+Critic
+Dancer
+Designer
+DJ
+Doctor
+Entrepreneur
+Fictional Character
+Journalist
+Model
+Movie Director, Producer
+Musician
+Photographer
+Poet / Poetess
+Politician, Civil Servant
+Psychologist
+Public figure
+Scientist, Teacher
+Singer
+Streamer
+Stylist, Image Consultant
+TV Host
+Writer
+Internet Service Provider
+Mobile Network Carrier
+Satellite TV Operator
+Telephone Service Provider
+Cleaning Services
+Computer Services
+Dry Cleaners, Laundry
+Rental Services
+Repair Work
+Sauna
+Sewing & Alterations
+Archive
+Book
+Community Center
+Cultural Center
+Library
+Museum, Gallery, Exhibition
+Theatre
+College
+Continuing Education
+Dance School
+Driving School
+Grammar School
+Institute
+Kindergarten
+Lyceum
+School
+Training Courses
+Training, Seminar
+University
+Vocational School
+Billiard Room
+Board Games
+Bowling
+Cartoons
+Circus
+Concert Hall
+Dating
+Festival
+Ice Rink
+Intellectual games
+Lottery, Sweepstake
+Movie
+Movie Theater
+Music
+Night Сlub
+Online Game
+Outdoor Activities
+Park
+Quest
+Series
+Shopping Mall
+Video Game
+Zoo
+Accounting & Taxes
+Auto Insurance
+Bank, Financial Institution
+Financial Markets
+Insurance Company
+Pawnshop
+Payment System
+Retirement Fund
+Application
+Classifieds
+Hosting, Domain Registration
+Software
+Web Studio
+Blog
+Internet Media
+Printed Matter
+Publishing House
+Radio Station
+Show, Program
+TV Channel
+Cosmetology
+Dentistry
+Hospital
+Medical Centre
+Medical Service
+Medicine
+Pharmacy, Ophthalmology
+Accessories, Jewelry
+Adult Merchandise
+Antiques
+Baby Food
+Bookstore
+Bridal Salon
+Children's Clothing and Shoes
+Clothing, Shoes
+Computers
+Construction Materials, Tools
+Country House & Garden Goods
+Electronics
+Equipment
+Flowers
+Food, Drink
+Furniture
+Games, Toys
+Home Appliances
+Household Products
+Interior
+Jewelry
+Kids Goods
+Mobile Stores
+Musical instruments
+Office Supplies
+Party Supplies
+Products for crafts
+Shopping Mall
+Sporting Goods
+Sports Clothing & Footwear
+Supermarket
+Watches
+Other Goods
+Advertising
+Construction & Repair Work
+Consulting, Business Services
+Content Production
+Design Studio
+Detective agency
+Event Planning
+Job Search
+Legal Services
+Management Company
+Manufacturing, Industry
+Modeling Agency
+Notary Public
+Other Services
+Photo & Video Capture
+Printing, Graphic Arts
+Real Estate
+Record label
+Recording Studio
+Security
+Bar, Pub
+Café, Restaurant
+Coffee Shop
+Cooking
+Food Delivery
+Charity
+Government Organization
+Political Party
+Public Organization
+Religious Establishment
+Sport
+Athlete
+Basketball Team
+Esports Organization
+Esports Player
+Esports Team
+Football Team
+Hockey Team
+Sports Club
+Sports Complex
+Sports Organization
+Sports Supplements
+Sports Team
+Summer Sports
+Volleyball Team
+Water Sports
+Winter Sports
+Active Recreation
+Guided Tours
+Health Resort, Holiday Home
+Hostel
+Hotel
+Hunting & Fishing
+National Park, Nature Reserve
+Summer Camp
+Tickets, Hotel Reservations
+Travel Agency
+Travel Information
+Visa Center
+Airline
+Airport, Train Station
+Delivery Service
+Freight Transportation
+Passenger transport
+Postal Service
+Rental Services
+Taxi
