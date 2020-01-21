@@ -38,7 +38,7 @@ The algorithm for collecting data from these pages is as follows:
 6. Collect information about user's interests (put all the information about user subscriptions in a separate column)
 7. Save everything into .csv file
 
-All scripts can be fount in a "collect_data" folder. 
+All scripts can be found in a "collect_data" folder. The raw data can be downloaded from [here](https://drive.google.com/file/d/155RkVwIDs95wwHF0yvcu5LLkXI08ixvE/view?usp=sharing)
 
  
 
